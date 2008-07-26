@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1217065016 source:/home/prashant/Code/BrusselsMidiPlayer/Application.cpp
+	<juce/juce.h>
+	"MidiPlayerEngine.h"
+	"TinyDisplay.cpp"
+
+1217064975 source:/home/prashant/Code/BrusselsMidiPlayer/MidiPlayerEngine.cpp
+	<juce/juce.h>
+	<exception>
+	"MidiPlayerEngine.h"
+
+1217064986 /home/prashant/Code/BrusselsMidiPlayer/MidiPlayerEngine.h
+	<juce/juce.h>
+
+1217058253 source:/home/prashant/Code/BrusselsMidiPlayer/PrelimDisplay.cpp
+	<juce/juce.h>
+	"MidiPlayerEngine.h"
+
+1217058253 /home/prashant/Code/BrusselsMidiPlayer/PrelimDisplay.cpp
+	<juce/juce.h>
+	"MidiPlayerEngine.h"
+
+1217066173 /home/prashant/Code/BrusselsMidiPlayer/TinyDisplay.cpp
+	<juce/juce.h>
+	"MidiPlayerEngine.h"
+
+1217065803 source:/home/prashant/Code/BrusselsMidiPlayer/TinyDisplay.cpp
+	<juce/juce.h>
+	"MidiPlayerEngine.h"
+
