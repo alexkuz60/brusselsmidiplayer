@@ -1,0 +1,1 @@
+Brussels MIDI Player is a full featured MIDI and karaoke file (.mid, .kar) player for the Linux platform. It will allow easy mixer controls and lyrics display of playing songs.
